@@ -9,6 +9,8 @@
 
 I'm belgian's developper who's try to learn some in front-end. I love learning and try new technology.
 
+I'm also UI/UX Designer and I have a bachelor in bachelor in Video Game😉
+
 
 ## What I use ?
 
