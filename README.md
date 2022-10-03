@@ -1,6 +1,5 @@
 ![Astoryon's logo](https://github.com/AnthonyPreite/images_library/blob/master/img/Group%2015.png)
 
-​
 
 # Hello guys, i'm Anthony 👋
 
@@ -27,12 +26,11 @@ I'm belgian's developper who's try to learn some in front-end. I love learning a
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://aframe.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/16024092?s=280&v=4" alt="typescript" width="40" height="40" background="#212121"/> </a>
+  <a href="https://aframe.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/16024092?s=280&v=4" alt="typescript" width="40" height="40"/> </a>
   
   
   ## My Dashboard
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonypreite&show_icons=true&locale=en" alt="anthonypreite" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonypreite&show_icons=true&locale=en&layout=compact" alt="anthonypreite" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonypreite&show_icons=true&locale=en&theme=gotham" alt="anthonypreite" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonypreite&show_icons=true&locale=en&layout=compact&theme=gotham" alt="anthonypreite" /></p>
 <!--
 https://avatars.githubusercontent.com/u/16024092?s=280&v=4
 
