@@ -16,7 +16,7 @@ I'm also UI/UX Designer and I have a bachelor in Video Game Development😉
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[your-artstation-URL](https://astoryon.artstation.com/)">
-    <img src="https://img.shields.io/badge/Artstation-magenta?style=for-the-badge&logo=artstation&logoColor=white" alt="Artstation Badge"/>
+    <img src="https://img.shields.io/badge/Artstation-crimson?style=for-the-badge&logo=artstation&logoColor=white" alt="Artstation Badge"/>
   </a>
   <a href="[your-Behance-URL](https://www.behance.net/anthonypreite)">
     <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
