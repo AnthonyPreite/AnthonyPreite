@@ -40,7 +40,17 @@ https://avatars.githubusercontent.com/u/16024092?s=280&v=4
 
 **AnthonyPreite/AnthonyPreite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/anthonypreite/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="[your-Behance-URL](https://www.behance.net/anthonypreite)">
+    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
+  </a>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
