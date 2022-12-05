@@ -11,6 +11,17 @@ I'm belgian's developper who trying to learn some in front-end. I love learning 
 
 I'm also UI/UX Designer and I have a bachelor in Video Game Development😉
 
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/anthonypreite/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-artstation-URL](https://astoryon.artstation.com/)">
+    <img src="https://img.shields.io/badge/Artstation-red?style=for-the-badge&logo=artstation&logoColor=white" alt="Artstation Badge"/>
+  </a>
+  <a href="[your-Behance-URL](https://www.behance.net/anthonypreite)">
+    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
+  </a>
+</div>
 
 ## ⚒ What I use ?
 
@@ -35,20 +46,6 @@ I'm also UI/UX Designer and I have a bachelor in Video Game Development😉
   
   ## ⚡️ My Dashboard
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonypreite&show_icons=true&locale=en&theme=gotham" alt="anthonypreite" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonypreite&show_icons=true&locale=en&layout=compact&theme=gotham" alt="anthonypreite" /></p>
-
-https://avatars.githubusercontent.com/u/16024092?s=280&v=4
-
-<div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/anthonypreite/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="[your-Behance-URL](https://www.behance.net/anthonypreite)">
-    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-  </a>
-</div>
 
 <!--  
 
