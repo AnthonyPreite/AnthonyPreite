@@ -7,9 +7,10 @@
 
 ### Welcome to my Github 🙃
 
-I'm belgian's developper who trying to learn some in front-end. I love learning and try new technology.
+I'm a belgian developer trying to improve in front-end. I love learning and try new technologies. 
 
-I'm also UI/UX Designer and I have a bachelor in Video Game Development😉
+I'm UI/UX Designer and I have a bachelor in Video Game Development 😉 
+
 
 ## My networks
 
