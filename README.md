@@ -12,7 +12,7 @@ I'm belgian's developper who trying to learn some in front-end. I love learning 
 I'm also UI/UX Designer and I have a bachelor in Video Game Development😉
 
 <div id="badges" display="block">
-  <a href="[https://www.linkedin.com/in/anthonypreite/](https://www.linkedin.com/in/anthonypreite/)">
+  <a href="[https://www.linkedin.com/in/anthonypreite/]">
     <img src="https://img.shields.io/badge/LinkedIn-teal?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[your-artstation-URL](https://astoryon.artstation.com/)">
