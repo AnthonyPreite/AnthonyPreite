@@ -35,10 +35,8 @@ I'm also UI/UX Designer and I have a bachelor in Video Game Development😉
   
   ## ⚡️ My Dashboard
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonypreite&show_icons=true&locale=en&theme=gotham" alt="anthonypreite" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonypreite&show_icons=true&locale=en&layout=compact&theme=gotham" alt="anthonypreite" /></p>
-<!--
-https://avatars.githubusercontent.com/u/16024092?s=280&v=4
 
-**AnthonyPreite/AnthonyPreite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://avatars.githubusercontent.com/u/16024092?s=280&v=4
 
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/anthonypreite/)">
@@ -51,6 +49,12 @@ https://avatars.githubusercontent.com/u/16024092?s=280&v=4
     <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
 </div>
+
+<!--  
+
+**AnthonyPreite/AnthonyPreite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
