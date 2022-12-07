@@ -13,7 +13,7 @@ I'm UI/UX Designer and I have a bachelor in Video Game Development 😉
 
 <br>
 
-## Project
+## 👨🏻‍💻 Project
   
 | Project      | Type      | Link       |
 |--------------|-----------|------------|
