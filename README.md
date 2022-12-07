@@ -15,6 +15,14 @@ I'm UI/UX Designer and I have a bachelor in Video Game Development 😉
 <a href="https://overlore.netlify.app/">
     <img src="https://img.shields.io/badge/Overlore-orange?style=for-the-badge&logo=Overlore&logoColor=white" alt="Overlore Badge"/>
   </a>
+  
+  | Project    | Type      | Link |
+|--------------|-----------|------------|
+| **Overlore** | 1.99      | <a href="https://overlore.netlify.app/"><img src="https://img.shields.io/badge/Overlore-orange?style=for-the-badge&logo=Overlore&logoColor=white" alt="Overlore Badge"/>
+</a>|
+| Bananas      | **1.89**  | 5234       |
+  
+  
 
 ## ⚒ What I use ?
 
