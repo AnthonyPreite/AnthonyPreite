@@ -48,6 +48,7 @@ I'm UI/UX Designer and I have a bachelor in Video Game Development 😉
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonypreite&show_icons=true&locale=en&theme=gotham" alt="anthonypreite" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonypreite&show_icons=true&locale=en&layout=compact&theme=gotham" alt="anthonypreite" /></p>
 
 <br>
+
 ## My networks
 
 <div id="badges" display="block">
