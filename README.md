@@ -11,10 +11,9 @@ I'm a belgian developer trying to improve in front-end. I love learning and try 
 
 I'm UI/UX Designer and I have a bachelor in Video Game Development 😉 
 
-> Project Overlore
-<a href="https://overlore.netlify.app/">
-    <img src="https://img.shields.io/badge/Overlore-orange?style=for-the-badge&logo=Overlore&logoColor=white" alt="Overlore Badge"/>
-  </a>
+<br>
+
+## Project
   
   | Project    | Type      | Link |
 |--------------|-----------|------------|
