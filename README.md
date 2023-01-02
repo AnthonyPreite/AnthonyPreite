@@ -19,7 +19,7 @@ I'm UI/UX Designer and I have a bachelor in Video Game Development 😉
 |--------------|-----------|------------|
 | **Overlore** | Website   | <a href="https://overlore.netlify.app/"><img src="https://img.shields.io/badge/Overlore-orange?style=for-the-badge&logo=Overlore&logoColor=white" alt="Overlore Badge"/>
 </a> |
-|**My Website**| Website   | <a href="https://www.preiteanthony.be/"><img src="https://img.shields.io/badge/My-black?style=for-the-badge&logo=My&logoColor=white" alt="My Badge"/>
+|**My Website**| Website   | <a href="https://www.preiteanthony.be/"><img src="https://img.shields.io/badge/My Website-black?style=for-the-badge&logo=My&logoColor=white" alt="My Website Badge"/>
 |**UNAMED.EXE**| Game      | WIP        |
   
   
