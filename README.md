@@ -1,5 +1,3 @@
-![Astoryon's logo](https://github.com/AnthonyPreite/images_library/blob/master/img/Group%2015.png)
-
 
 # Hello guys, i'm Anthony 👋
 
