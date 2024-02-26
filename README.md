@@ -60,7 +60,7 @@ I'm UI/UX Designer and I have a bachelor in Video Game Development 😉
     <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
 </div>
-
+<a href="https://app.daily.dev/astoryon"><img src="https://api.daily.dev/devcards/v2/yOYrGmao4QtP4S2A5NE5A.png?type=default&r=ocm" width="356" alt="Preite Anthony's Dev Card"/></a>
 
 <!--  
 
