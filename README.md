@@ -2,8 +2,8 @@
 # Hello guys, i'm Anthony 👋
 
 >AKA **Astoryon**
->
-><a href="https://app.daily.dev/astoryon"><img src="https://api.daily.dev/devcards/v2/yOYrGmao4QtP4S2A5NE5A.png?type=wide&r=ocm" width="652" alt="Preite Anthony's Dev Card"/></a>
+
+<a href="https://app.daily.dev/astoryon"><img src="https://api.daily.dev/devcards/v2/yOYrGmao4QtP4S2A5NE5A.png?type=wide&r=ocm" width="652" alt="Preite Anthony's Dev Card"/></a>
 
 ### Welcome to my Github 🙃
 
